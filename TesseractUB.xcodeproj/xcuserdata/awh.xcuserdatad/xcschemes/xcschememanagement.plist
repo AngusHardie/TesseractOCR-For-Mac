@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Tesseract.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D2AAC045055464E500DB518D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE530BBB0C503A5E00D1B1AA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DED3979D12A95C9E00E6FF2E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DED7A6B40C603D790020C25D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DED7A93E0C603FEE0020C25D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DED7AD7F0C605E3E0020C25D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

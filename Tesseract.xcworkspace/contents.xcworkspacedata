@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:build instructions.txt">
+   </FileRef>
+   <FileRef
+      location = "group:OCRTestApp/CocoaOCR.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TesseractUB.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:liblep/Leptonica.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:libtiff/libtiff.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:libjpeg/libjpeg.xcodeproj">
+   </FileRef>
+</Workspace>
