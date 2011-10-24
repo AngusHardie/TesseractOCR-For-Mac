@@ -1,0 +1,1117 @@
+Tlibtiff
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004AC35DB000000000000000EE
+t1254317488
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/assert.h
+c00000000463BAA5A0000000000000DD6
+t1178315354
+s3542
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/ctype.h
+c00000000463BAA5B0000000000002627
+t1178315355
+s9767
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/fcntl.h
+c00000000463BAA5A00000000000003EA
+t1178315354
+s1002
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/math.h
+c00000000462E7AF500000000000004B7
+t1177451253
+s1207
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/search.h
+c00000000463BAA5A0000000000000585
+t1178315354
+s1413
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/setjmp.h
+c00000000463BAA5A0000000000000438
+t1178315354
+s1080
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdarg.h
+c00000000463BAA5A00000000000000EA
+t1178315354
+s234
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdio.h
+c00000000463BAA5A0000000000003B7F
+t1178315354
+s15231
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdlib.h
+c00000000463BAA5A0000000000002647
+t1178315354
+s9799
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/string.h
+c00000000463BAA5A00000000000014D3
+t1178315354
+s5331
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/mman.h
+c0000000046F235140000000000001CA8
+t1190278420
+s7336
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/stat.h
+c0000000046F2351500000000000035F1
+t1190278421
+s13809
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/types.h
+c0000000046F235160000000000002641
+t1190278422
+s9793
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/unistd.h
+c00000000463BAA5A0000000000004EED
+t1178315354
+s20205
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/zlib.h
+c0000000046288A2000000000000102A5
+t1177061920
+s66213
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libjpeg/build/Release/libjpeg.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libjpeg/jpeg-6b/jconfig.h
+c00000000469FF1610000000000000506
+t1184887137
+s1286
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libjpeg/jpeg-6b/jerror.h
+c00000000344906FE0000000000003670
+t877201150
+s13936
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libjpeg/jpeg-6b/jmorecfg.h
+c0000000033ED044000000000000030AA
+t871171136
+s12458
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libjpeg/jpeg-6b/jpegint.h
+c00000000335958E30000000000003D60
+t861493475
+s15712
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/../libjpeg/jpeg-6b/jerror.h
+c00000000344906FE0000000000003670
+t877201150
+s13936
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/../libjpeg/jpeg-6b/jpeglib.h
+c0000000034EF2F7E000000000000B47D
+t888090494
+s46205
+i"jconfig.h"
+i"jmorecfg.h"
+i"jpegint.h"
+i"jerror.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/Release/libtiff.a
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/libtiff.a
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/mkg3states.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_aux.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_close.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_codec.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_color.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_compress.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dir.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dirinfo.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dirread.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dirwrite.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dumpmode.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_error.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_extension.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_fax3.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_fax3sm.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_flush.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_getimage.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_jpeg.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_luv.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_lzw.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_next.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_open.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_packbits.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_pixarlog.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_predict.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_print.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_read.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_stream.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_strip.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_swab.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_thunder.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_tile.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_unix.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_version.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_warning.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_write.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_zip.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tiff.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/libtiff.a
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/mkg3states.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_aux.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_close.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_codec.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_color.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_compress.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dir.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dirinfo.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dirread.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dirwrite.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dumpmode.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_error.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_extension.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_fax3.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_fax3sm.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_flush.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_getimage.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_jpeg.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_luv.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_lzw.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_next.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_open.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_packbits.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_pixarlog.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_predict.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_print.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_read.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_stream.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_strip.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_swab.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_thunder.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_tile.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_unix.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_version.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_warning.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_write.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_zip.o
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tiff.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/mkg3states.c
+c00000000416EBD1700000000000024AD
+t1097776407
+s9389
+i"tif_config.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<unistd.h>
+i"tif_fax3.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/t4.h
+c00000000379E29A30000000000002C19
+t933112227
+s11289
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_aux.c
+c0000000043E8A5C70000000000001D89
+t1139320263
+s7561
+i"tiffiop.h"
+i"tif_predict.h"
+i<math.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_close.c
+c0000000043906FDC0000000000000E27
+t1133539292
+s3623
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_codec.c
+c0000000043A94BB20000000000001239
+t1135168434
+s4665
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_color.c
+c00000000440832060000000000002213
+t1141387782
+s8723
+i"tiffiop.h"
+i<math.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_compress.c
+c0000000043A94BB20000000000001E82
+t1135168434
+s7810
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_config.h
+c00000000469FEF970000000000001E70
+t1184886679
+s7792
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dir.c
+c0000000044202D0A0000000000009D3E
+t1142959370
+s40254
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dir.h
+c0000000043B125560000000000001B06
+t1135682902
+s6918
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirinfo.c
+c0000000043E8A5C70000000000007F26
+t1139320263
+s32550
+i"tiffiop.h"
+i<stdlib.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirread.c
+c0000000044202D0A000000000000CF4D
+t1142959370
+s53069
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirwrite.c
+c000000004408320700000000000086A0
+t1141387783
+s34464
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dumpmode.c
+c0000000043A94BB20000000000000C5D
+t1135168434
+s3165
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_error.c
+c0000000043B1255700000000000008D6
+t1135682903
+s2262
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_extension.c
+c00000000415EB29C0000000000000C4E
+t1096725148
+s3150
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3.c
+c0000000044202D0A000000000000ADBC
+t1142959370
+s44476
+i"tiffiop.h"
+i"tif_fax3.h"
+i"t4.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3.h
+c00000000439D900E0000000000003DD4
+t1134399502
+s15828
+i"tiff.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3sm.c
+c000000004137238000000000000198CE
+t1094132608
+s104654
+i"tiff.h"
+i"tif_fax3.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_flush.c
+c0000000039C28C1A00000000000008A9
+t969051162
+s2217
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_getimage.c
+c0000000043B125570000000000010EB7
+t1135682903
+s69303
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_jpeg.c
+c00000000469FF16A000000000000E7BD
+t1184887146
+s59325
+i"tiffiop.h"
+i<setjmp.h>
+i"jpeglib.h"
+i"jerror.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_luv.c
+c0000000044202D0A000000000000A077
+t1142959370
+s41079
+i"tiffiop.h"
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i"uvcode.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_lzw.c
+c0000000044202D0A000000000000734A
+t1142959370
+s29514
+i"tiffiop.h"
+i"tif_predict.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_next.c
+c0000000043A94BB40000000000000EFE
+t1135168436
+s3838
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_open.c
+c0000000044202D0A0000000000004175
+t1142959370
+s16757
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_packbits.c
+c0000000043E8A5C70000000000001E40
+t1139320263
+s7744
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_pixarlog.c
+c0000000044202D0A000000000000914F
+t1142959370
+s37199
+i"tiffiop.h"
+i"tif_predict.h"
+i"zlib.h"
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_predict.c
+c0000000044157D920000000000003DB8
+t1142259090
+s15800
+i"tiffiop.h"
+i"tif_predict.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_predict.h
+c0000000044157D9200000000000009B9
+t1142259090
+s2489
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_print.c
+c0000000044157D92000000000000496A
+t1142259090
+s18794
+i"tiffiop.h"
+i<stdio.h>
+i<ctype.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_read.c
+c0000000043A94BB40000000000004B0C
+t1135168436
+s19212
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_stream.cxx
+c0000000042E89C140000000000001A1F
+t1122540564
+s6687
+i"tiffiop.h"
+i<iostream>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_strip.c
+c0000000044202D0A0000000000002128
+t1142959370
+s8488
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_swab.c
+c00000000425FF63E0000000000001DB4
+t1113585214
+s7604
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_thunder.c
+c0000000043A94BB40000000000001354
+t1135168436
+s4948
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_tile.c
+c00000000440832070000000000001E69
+t1141387783
+s7785
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_unix.c
+c0000000044202D0A00000000000017EE
+t1142959370
+s6126
+i"tif_config.h"
+i<sys/types.h>
+i<stdarg.h>
+i<stdlib.h>
+i<sys/stat.h>
+i<unistd.h>
+i<fcntl.h>
+i<io.h>
+i"tiffiop.h"
+i<sys/mman.h>
+i<windows.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_version.c
+c000000003A0FFDDE00000000000005B5
+t974126558
+s1461
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_warning.c
+c0000000043B1255700000000000008FB
+t1135682903
+s2299
+i"tiffiop.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_write.c
+c00000000440832070000000000005852
+t1141387783
+s22610
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_zip.c
+c0000000044202D0A0000000000002860
+t1142959370
+s10336
+i"tiffiop.h"
+i"tif_predict.h"
+i"zlib.h"
+i<stdio.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tiff.h
+c0000000043B1255700000000000083BD
+t1135682903
+s33725
+i"tiffconf.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tiffconf.h
+c00000000469FF0E30000000000000C1B
+t1184887011
+s3099
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tiffio.h
+c0000000044202D0A0000000000004CFF
+t1142959370
+s19711
+i"tiff.h"
+i"tiffvers.h"
+i<windows.h>
+i<stdio.h>
+i<stdarg.h>
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tiffiop.h
+c0000000044202D0A00000000000030F4
+t1142959370
+s12532
+i"tif_config.h"
+i<fcntl.h>
+i<sys/types.h>
+i<string.h>
+i<assert.h>
+i<search.h>
+i"tiffio.h"
+i"tif_dir.h"
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tiffvers.h
+c000000004422B4C0000000000000019A
+t1143125184
+s410
+
+N/Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/uvcode.h
+c00000000432A7F6500000000000015AD
+t1126858597
+s5549
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/mkg3states.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/mkg3states.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_aux.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_aux.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_close.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_close.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_codec.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_codec.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_color.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_color.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_compress.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_compress.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dir.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dir.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dirinfo.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirinfo.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dirread.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirread.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dirwrite.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirwrite.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_dumpmode.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dumpmode.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_error.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_error.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_extension.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_extension.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_fax3.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_fax3sm.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3sm.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_flush.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_flush.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_getimage.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_getimage.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_jpeg.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_jpeg.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_luv.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_luv.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_lzw.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_lzw.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_next.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_next.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_open.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_open.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_packbits.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_packbits.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_pixarlog.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_pixarlog.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_predict.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_predict.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_print.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_print.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_read.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_read.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_stream.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_stream.cxx normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_strip.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_strip.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_swab.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_swab.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_thunder.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_thunder.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_tile.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_tile.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_unix.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_unix.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_version.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_version.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_warning.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_warning.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_write.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_write.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/i386/tif_zip.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_zip.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/mkg3states.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/mkg3states.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_aux.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_aux.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_close.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_close.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_codec.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_codec.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_color.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_color.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_compress.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_compress.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dir.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dir.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dirinfo.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirinfo.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dirread.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirread.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dirwrite.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirwrite.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_dumpmode.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dumpmode.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_error.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_error.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_extension.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_extension.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_fax3.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_fax3sm.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3sm.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_flush.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_flush.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_getimage.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_getimage.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_jpeg.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_jpeg.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_luv.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_luv.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_lzw.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_lzw.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_next.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_next.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_open.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_open.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_packbits.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_packbits.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_pixarlog.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_pixarlog.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_predict.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_predict.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_print.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_print.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_read.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_read.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_stream.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_stream.cxx normal ppc c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_strip.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_strip.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_swab.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_swab.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_thunder.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_thunder.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_tile.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_tile.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_unix.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_unix.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_version.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_version.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_warning.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_warning.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_write.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_write.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/tif_zip.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_zip.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/mkg3states.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/mkg3states.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_aux.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_aux.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_close.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_close.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_codec.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_codec.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_color.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_color.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_compress.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_compress.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_dir.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dir.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_dirinfo.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirinfo.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_dirread.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirread.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_dirwrite.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dirwrite.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_dumpmode.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_dumpmode.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_error.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_error.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_extension.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_extension.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_fax3.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_fax3sm.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_fax3sm.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_flush.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_flush.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_getimage.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_getimage.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_luv.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_luv.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_lzw.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_lzw.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_next.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_next.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_open.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_open.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_packbits.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_packbits.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_pixarlog.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_pixarlog.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_predict.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_predict.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_print.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_print.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_read.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_read.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_strip.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_strip.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_swab.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_swab.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_thunder.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_thunder.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_tile.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_tile.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_unix.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_unix.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_version.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_version.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_warning.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_warning.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_write.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_write.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/libtiff.build/Release/libtiff.build/Objects-normal/x86_64/tif_zip.o /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/libtiff/tif_zip.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCreateUniversalBinary /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/Release/libtiff.a normal "ppc i386"
+r0
+
+CLibtool /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/i386/libtiff.a normal i386
+r0
+
+CLibtool /Users/awh/Development/Experiments2/TesseractOCR/TesseractMac3/libtiff/build/libtiff.build/Release/libtiff.build/Objects-normal/ppc/libtiff.a normal ppc
+r0
+
