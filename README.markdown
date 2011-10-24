@@ -7,7 +7,7 @@ TesseractOCR Mac is now being hosted on github.
 This is release 1.2 which requires XCode 4 (see build instructions.txt for more details)
 
 
-As a reminder, this is NOT an official Tesseract Project, the original site (which provides the source on which this is based and did almost all of the development) is at http://code.google.com/p/tesseract-ocr/
+As a reminder, this is NOT an official Tesseract Project, the original site (which provides the source on which this is based and did almost all of the non mac specific development) is at http://code.google.com/p/tesseract-ocr/
 
 But please do not direct comments about this there.
 
