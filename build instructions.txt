@@ -1,0 +1,23 @@
+Build Instructions
+==================
+
+
+Xcode4 builds the whole system using its built in dependency system
+
+
+Please ensure that you follow any licensing requirements if you use this library.
+
+
+If you have comments about the this software you can send email to opensource@malcolmhardie.com
+
+
+
+Note that this build has been modified in various places to remove Tesseract UI specific things 
+that aren't supported yet. These generally consist of blocks of code which are defined out using
+GRAPHICS_DISABLED.
+
+
+Ideally of course this build will eventually get a cocoa
+layer to support ScrollView and actually be able to display the notices properly. 
+If I get more time I may be able to get around to this, but if you can get this done first 
+please do, it will be a noticable improvement.
