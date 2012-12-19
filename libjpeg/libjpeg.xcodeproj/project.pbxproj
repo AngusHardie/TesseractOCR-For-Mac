@@ -609,6 +609,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
 				INFOPLIST_FILE = libjpeg.plist;
+				INSTALL_PATH = "@executable_path/../Frameworks";
 				PRODUCT_NAME = libjpeg;
 				SDKROOT = macosx;
 			};
