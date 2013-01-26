@@ -7,27 +7,85 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		439BFAAC16B3C7C200AE0E39 /* Tesseract.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439BFAA116B3C7AD00AE0E39 /* Tesseract.framework */; };
+		439BFAAF16B3C7E000AE0E39 /* Tesseract.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 439BFAA116B3C7AD00AE0E39 /* Tesseract.framework */; };
+		439BFAB916B3C82800AE0E39 /* Leptonica.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439BFAB816B3C81200AE0E39 /* Leptonica.framework */; };
+		439BFABC16B3C83400AE0E39 /* Leptonica.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 439BFAB816B3C81200AE0E39 /* Leptonica.framework */; };
+		439BFB7016B3C88900AE0E39 /* libtiff.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 439BFB0B16B3C86900AE0E39 /* libtiff.framework */; };
+		439BFB7116B3C88900AE0E39 /* libjpeg.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 439BFB0516B3C86200AE0E39 /* libjpeg.framework */; };
+		439BFB7216B3C89D00AE0E39 /* libjpeg.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439BFB0516B3C86200AE0E39 /* libjpeg.framework */; };
+		439BFB7316B3C8B200AE0E39 /* libtiff.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439BFB0B16B3C86900AE0E39 /* libtiff.framework */; };
+		439BFB7516B3C8C900AE0E39 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439BFB7416B3C8C900AE0E39 /* Cocoa.framework */; };
 		8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 29B97318FDCFA39411CA2CEA /* MainMenu.nib */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		DE297E3B0D86DA09006B4829 /* Tesseract.icns in Resources */ = {isa = PBXBuildFile; fileRef = DE297E3A0D86DA09006B4829 /* Tesseract.icns */; };
 		DE53F2A60C5013DA00D1B1AA /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = DE53F25B0C5013DA00D1B1AA /* tessdata */; };
 		DE5618510C6B13C40001D72B /* readme.html in Resources */ = {isa = PBXBuildFile; fileRef = DE5618500C6B13C40001D72B /* readme.html */; };
-		DE5AC47E13D4266E00CD45AD /* Leptonica.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE5AC47A13D4266E00CD45AD /* Leptonica.framework */; };
-		DE5AC47F13D4266F00CD45AD /* libjpeg.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE5AC47B13D4266E00CD45AD /* libjpeg.framework */; };
-		DE5AC48013D4266F00CD45AD /* libtiff.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE5AC47C13D4266E00CD45AD /* libtiff.framework */; };
-		DE5AC48113D4266F00CD45AD /* Tesseract.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE5AC47D13D4266E00CD45AD /* Tesseract.framework */; };
-		DE5AC48313D4267900CD45AD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE5AC48213D4267900CD45AD /* Cocoa.framework */; };
-		DE5AC48513D4267F00CD45AD /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = DE5AC48413D4267F00CD45AD /* libz.dylib */; };
-		DE5AC4AE13D4291300CD45AD /* Leptonica.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = DE5AC47A13D4266E00CD45AD /* Leptonica.framework */; };
-		DE5AC4AF13D4291300CD45AD /* libjpeg.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = DE5AC47B13D4266E00CD45AD /* libjpeg.framework */; };
-		DE5AC4B013D4291300CD45AD /* libtiff.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = DE5AC47C13D4266E00CD45AD /* libtiff.framework */; };
-		DE5AC4B113D4291300CD45AD /* Tesseract.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = DE5AC47D13D4266E00CD45AD /* Tesseract.framework */; };
 		DE9220CA10F2D6A8009B4379 /* credits.html in Resources */ = {isa = PBXBuildFile; fileRef = DE9220C910F2D6A8009B4379 /* credits.html */; };
 		DE9220CD10F2D6B3009B4379 /* MHAboutController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE9220CC10F2D6B3009B4379 /* MHAboutController.m */; };
 		DEA4F1190C40029C00F3A0EF /* RecognitionManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = DEA4F1180C40029C00F3A0EF /* RecognitionManager.mm */; };
 		DEA4F12B0C40104600F3A0EF /* phototest.tif in Resources */ = {isa = PBXBuildFile; fileRef = DEA4F12A0C40104600F3A0EF /* phototest.tif */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		439BFAA016B3C7AD00AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFA9C16B3C7AD00AE0E39 /* TesseractUB.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DED7AD800C605E3E0020C25D;
+			remoteInfo = Tesseract;
+		};
+		439BFAAD16B3C7D900AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFA9C16B3C7AD00AE0E39 /* TesseractUB.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = DED7AD7F0C605E3E0020C25D;
+			remoteInfo = Tesseract;
+		};
+		439BFAB716B3C81200AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFAB016B3C81200AE0E39 /* Leptonica.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DE5AC41013D4225300CD45AD;
+			remoteInfo = Leptonica;
+		};
+		439BFABA16B3C82E00AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFAB016B3C81200AE0E39 /* Leptonica.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DC2EF4F0486A6940098B216;
+			remoteInfo = Leptonica;
+		};
+		439BFB0416B3C86200AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFB0016B3C86200AE0E39 /* libjpeg.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DE7D6E430C6065770017A5E6;
+			remoteInfo = "jpeg-framework";
+		};
+		439BFB0A16B3C86900AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFB0616B3C86900AE0E39 /* libtiff.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DE5AC41713D4225300CD45AD;
+			remoteInfo = "tiff-framework";
+		};
+		439BFB6C16B3C88500AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFB0016B3C86200AE0E39 /* libjpeg.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = DE7D6E420C6065770017A5E6;
+			remoteInfo = "jpeg-framework";
+		};
+		439BFB6E16B3C88500AE0E39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 439BFB0616B3C86900AE0E39 /* libtiff.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = DE7D6E910C6066350017A5E6;
+			remoteInfo = "tiff-framework";
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		DED7A9F20C605A520020C25D /* CopyFiles */ = {
@@ -36,10 +94,10 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				DE5AC4AE13D4291300CD45AD /* Leptonica.framework in CopyFiles */,
-				DE5AC4AF13D4291300CD45AD /* libjpeg.framework in CopyFiles */,
-				DE5AC4B013D4291300CD45AD /* libtiff.framework in CopyFiles */,
-				DE5AC4B113D4291300CD45AD /* Tesseract.framework in CopyFiles */,
+				439BFB7016B3C88900AE0E39 /* libtiff.framework in CopyFiles */,
+				439BFB7116B3C88900AE0E39 /* libjpeg.framework in CopyFiles */,
+				439BFABC16B3C83400AE0E39 /* Leptonica.framework in CopyFiles */,
+				439BFAAF16B3C7E000AE0E39 /* Tesseract.framework in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -50,17 +108,16 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* CocoaApp_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocoaApp_Prefix.pch; sourceTree = "<group>"; };
+		439BFA9C16B3C7AD00AE0E39 /* TesseractUB.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = TesseractUB.xcodeproj; path = ../TesseractUB.xcodeproj; sourceTree = "<group>"; };
+		439BFAB016B3C81200AE0E39 /* Leptonica.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Leptonica.xcodeproj; path = ../liblep/Leptonica.xcodeproj; sourceTree = "<group>"; };
+		439BFB0016B3C86200AE0E39 /* libjpeg.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = libjpeg.xcodeproj; path = ../libjpeg/libjpeg.xcodeproj; sourceTree = "<group>"; };
+		439BFB0616B3C86900AE0E39 /* libtiff.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = libtiff.xcodeproj; path = ../libtiff/libtiff.xcodeproj; sourceTree = "<group>"; };
+		439BFB7416B3C8C900AE0E39 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* TesseractOCR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TesseractOCR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE297E3A0D86DA09006B4829 /* Tesseract.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Tesseract.icns; sourceTree = "<group>"; };
 		DE53F25B0C5013DA00D1B1AA /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 		DE5618500C6B13C40001D72B /* readme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = readme.html; sourceTree = "<group>"; };
-		DE5AC47A13D4266E00CD45AD /* Leptonica.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Leptonica.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE5AC47B13D4266E00CD45AD /* libjpeg.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = libjpeg.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE5AC47C13D4266E00CD45AD /* libtiff.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = libtiff.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE5AC47D13D4266E00CD45AD /* Tesseract.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Tesseract.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE5AC48213D4267900CD45AD /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
-		DE5AC48413D4267F00CD45AD /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		DE9220C910F2D6A8009B4379 /* credits.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = credits.html; sourceTree = "<group>"; };
 		DE9220CB10F2D6B3009B4379 /* MHAboutController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHAboutController.h; sourceTree = "<group>"; };
 		DE9220CC10F2D6B3009B4379 /* MHAboutController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHAboutController.m; sourceTree = "<group>"; };
@@ -74,12 +131,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE5AC48513D4267F00CD45AD /* libz.dylib in Frameworks */,
-				DE5AC48313D4267900CD45AD /* Cocoa.framework in Frameworks */,
-				DE5AC47E13D4266E00CD45AD /* Leptonica.framework in Frameworks */,
-				DE5AC47F13D4266F00CD45AD /* libjpeg.framework in Frameworks */,
-				DE5AC48013D4266F00CD45AD /* libtiff.framework in Frameworks */,
-				DE5AC48113D4266F00CD45AD /* Tesseract.framework in Frameworks */,
+				439BFB7516B3C8C900AE0E39 /* Cocoa.framework in Frameworks */,
+				439BFAB916B3C82800AE0E39 /* Leptonica.framework in Frameworks */,
+				439BFAAC16B3C7C200AE0E39 /* Tesseract.framework in Frameworks */,
+				439BFB7316B3C8B200AE0E39 /* libtiff.framework in Frameworks */,
+				439BFB7216B3C89D00AE0E39 /* libjpeg.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,12 +165,16 @@
 		29B97314FDCFA39411CA2CEA /* CocoaApp */ = {
 			isa = PBXGroup;
 			children = (
+				439BFB7416B3C8C900AE0E39 /* Cocoa.framework */,
+				439BFB0616B3C86900AE0E39 /* libtiff.xcodeproj */,
+				439BFB0016B3C86200AE0E39 /* libjpeg.xcodeproj */,
+				439BFAB016B3C81200AE0E39 /* Leptonica.xcodeproj */,
+				439BFA9C16B3C7AD00AE0E39 /* TesseractUB.xcodeproj */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				DE56184F0C6B13B50001D72B /* Documentation */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				DE5AC4B213D4297200CD45AD /* Frameworks and Libraries */,
 			);
 			name = CocoaApp;
 			sourceTree = "<group>";
@@ -141,25 +201,44 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
+		439BFA9D16B3C7AD00AE0E39 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				439BFAA116B3C7AD00AE0E39 /* Tesseract.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		439BFAB116B3C81200AE0E39 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				439BFAB816B3C81200AE0E39 /* Leptonica.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		439BFB0116B3C86200AE0E39 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				439BFB0516B3C86200AE0E39 /* libjpeg.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		439BFB0716B3C86900AE0E39 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				439BFB0B16B3C86900AE0E39 /* libtiff.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		DE56184F0C6B13B50001D72B /* Documentation */ = {
 			isa = PBXGroup;
 			children = (
 				DE5618500C6B13C40001D72B /* readme.html */,
 			);
 			name = Documentation;
-			sourceTree = "<group>";
-		};
-		DE5AC4B213D4297200CD45AD /* Frameworks and Libraries */ = {
-			isa = PBXGroup;
-			children = (
-				DE5AC48413D4267F00CD45AD /* libz.dylib */,
-				DE5AC48213D4267900CD45AD /* Cocoa.framework */,
-				DE5AC47A13D4266E00CD45AD /* Leptonica.framework */,
-				DE5AC47B13D4266E00CD45AD /* libjpeg.framework */,
-				DE5AC47C13D4266E00CD45AD /* libtiff.framework */,
-				DE5AC47D13D4266E00CD45AD /* Tesseract.framework */,
-			);
-			name = "Frameworks and Libraries";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,6 +256,10 @@
 			buildRules = (
 			);
 			dependencies = (
+				439BFB6D16B3C88500AE0E39 /* PBXTargetDependency */,
+				439BFB6F16B3C88500AE0E39 /* PBXTargetDependency */,
+				439BFABB16B3C82E00AE0E39 /* PBXTargetDependency */,
+				439BFAAE16B3C7D900AE0E39 /* PBXTargetDependency */,
 			);
 			name = CocoaApp;
 			productInstallPath = "$(HOME)/Applications";
@@ -201,12 +284,61 @@
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CocoaApp */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 439BFAB116B3C81200AE0E39 /* Products */;
+					ProjectRef = 439BFAB016B3C81200AE0E39 /* Leptonica.xcodeproj */;
+				},
+				{
+					ProductGroup = 439BFB0116B3C86200AE0E39 /* Products */;
+					ProjectRef = 439BFB0016B3C86200AE0E39 /* libjpeg.xcodeproj */;
+				},
+				{
+					ProductGroup = 439BFB0716B3C86900AE0E39 /* Products */;
+					ProjectRef = 439BFB0616B3C86900AE0E39 /* libtiff.xcodeproj */;
+				},
+				{
+					ProductGroup = 439BFA9D16B3C7AD00AE0E39 /* Products */;
+					ProjectRef = 439BFA9C16B3C7AD00AE0E39 /* TesseractUB.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* CocoaApp */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		439BFAA116B3C7AD00AE0E39 /* Tesseract.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Tesseract.framework;
+			remoteRef = 439BFAA016B3C7AD00AE0E39 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		439BFAB816B3C81200AE0E39 /* Leptonica.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Leptonica.framework;
+			remoteRef = 439BFAB716B3C81200AE0E39 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		439BFB0516B3C86200AE0E39 /* libjpeg.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = libjpeg.framework;
+			remoteRef = 439BFB0416B3C86200AE0E39 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		439BFB0B16B3C86900AE0E39 /* libtiff.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = libtiff.framework;
+			remoteRef = 439BFB0A16B3C86900AE0E39 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		8D1107290486CEB800E47090 /* Resources */ = {
@@ -237,6 +369,29 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		439BFAAE16B3C7D900AE0E39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Tesseract;
+			targetProxy = 439BFAAD16B3C7D900AE0E39 /* PBXContainerItemProxy */;
+		};
+		439BFABB16B3C82E00AE0E39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Leptonica;
+			targetProxy = 439BFABA16B3C82E00AE0E39 /* PBXContainerItemProxy */;
+		};
+		439BFB6D16B3C88500AE0E39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "jpeg-framework";
+			targetProxy = 439BFB6C16B3C88500AE0E39 /* PBXContainerItemProxy */;
+		};
+		439BFB6F16B3C88500AE0E39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "tiff-framework";
+			targetProxy = 439BFB6E16B3C88500AE0E39 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {

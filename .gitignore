@@ -13,3 +13,7 @@ build/*
 xcuserdata
 profile
 *.moved-aside
+*.o
+*.0
+*.1
+.DS_Store
