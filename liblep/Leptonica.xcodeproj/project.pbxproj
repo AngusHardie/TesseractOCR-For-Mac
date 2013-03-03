@@ -384,11 +384,11 @@
 		DE5AC40B13D421DF00CD45AD /* libjpeg.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = libjpeg.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE5AC41013D4225300CD45AD /* Leptonica.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Leptonica.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE5AC42313D422DF00CD45AD /* libtiff.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = libtiff.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEFA807812741D13001C8752 /* jerror.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = jerror.h; path = "../libjpeg/jpeg-6b/jerror.h"; sourceTree = SOURCE_ROOT; };
-		DEFA807912741D13001C8752 /* jpeglib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = jpeglib.h; path = "../libjpeg/jpeg-6b/jpeglib.h"; sourceTree = SOURCE_ROOT; };
+		DEFA807812741D13001C8752 /* jerror.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = jerror.h; path = "../libjpeg/jpeg-6b/jerror.h"; sourceTree = SOURCE_ROOT; };
+		DEFA807912741D13001C8752 /* jpeglib.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = jpeglib.h; path = "../libjpeg/jpeg-6b/jpeglib.h"; sourceTree = SOURCE_ROOT; };
 		DEFA808D12741DCF001C8752 /* tiff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = tiff.h; path = ../libtiff/build/Release/libtiff.framework/Versions/A/Headers/tiff.h; sourceTree = SOURCE_ROOT; };
-		DEFA809112741E1B001C8752 /* tiffconf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = tiffconf.h; path = ../libtiff/libtiff/tiffconf.h; sourceTree = SOURCE_ROOT; };
-		DEFA809512741E24001C8752 /* tiffio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = tiffio.h; path = ../libtiff/libtiff/tiffio.h; sourceTree = SOURCE_ROOT; };
+		DEFA809112741E1B001C8752 /* tiffconf.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = tiffconf.h; path = ../libtiff/libtiff/tiffconf.h; sourceTree = SOURCE_ROOT; };
+		DEFA809512741E24001C8752 /* tiffio.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = tiffio.h; path = ../libtiff/libtiff/tiffio.h; sourceTree = SOURCE_ROOT; };
 		DEFA80AC12741E56001C8752 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = /usr/lib/libz.dylib; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
