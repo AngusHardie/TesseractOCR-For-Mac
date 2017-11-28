@@ -133,7 +133,7 @@ bool UnicharAmbigs::ParseAmbiguityLine(
   char *token;
   char *next_token;
   if (!(token = strtok_r(buffer, kAmbigDelimiters, &next_token)) ||
-      !sscanf(token, "%d", TestAmbigPartSize) || TestAmbigPartSize <= 0) {
+      !sscanf(token, "%d", TestAmbigPartSize) || *TestAmbigPartSize <= 0) {
     if (global_ambigs_debug_level) tprintf(kIllegalMsg, line_num);
     return false;
   }
